@@ -21,12 +21,6 @@ Student at Universidade Presbiteriana Mackenzie & Currently seeking an internshi
 </div>
 
 ## Social Media 📱
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jotadaira)
 
-<div>
-<a href="www.linkedin.com/in/joel-adair-q-tambo-728064353" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-<a href="https://www.instagram.com/jotadaira" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joel-adair-q-tambo-728064353)
